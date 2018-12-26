@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$main_black: #222;
+$main_white: #fff;
+$main_green: #82b340;
+$main_grey: #ececec;
+
+body {
+  color: $main_black;
+  font-family: "Open Sans", sans-serif;
+}
